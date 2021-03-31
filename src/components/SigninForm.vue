@@ -1,7 +1,7 @@
 <template>
 	<div class="contents">
 		<div class="form-wrapper form-wrapper-smtwo">
-			<div class="page-header">Welcome to MeetingFriends!</div>
+			<div class="page-header">Welcome to EduCare System!</div>
 			<form @submit.prevent="submitForm" class="form">
 				<div class="idandpw">
 					<label class="labelone" for="id">ID : </label>

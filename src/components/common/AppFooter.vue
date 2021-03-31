@@ -1,7 +1,7 @@
 <template>
 	<footer>
 		<template>
-			<div>@ 2021 MeetingFriends Application</div>
+			<div>@ 2021 Educare Application</div>
 		</template>
 	</footer>
 </template>
