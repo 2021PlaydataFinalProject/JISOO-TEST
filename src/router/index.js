@@ -22,16 +22,6 @@ const router = new VueRouter({
 			// name: 'Signup',
 			component: () => import('@/views/Signup.vue'),
 		},
-		// {
-		// 	path: '/add',
-		// 	component: () => import('@/views/RoomAdd.vue'),
-		// 	meta: { auth: true },
-		// },
-		{
-			path: '/waittingroom',
-			component: () => import('@/views/WaittingRoom.vue'),
-			meta: { auth: true },
-		},
 		{
 			path: '*',
 			component: () => import('@/views/NotFoundPage.vue'),

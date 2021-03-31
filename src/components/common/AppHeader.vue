@@ -2,7 +2,7 @@
 	<header>
 		<div>
 			<router-link :to="logoLink" class="logo">
-				MeetingFriends
+				EduCare
 			</router-link>
 		</div>
 		<div class="navigations">
