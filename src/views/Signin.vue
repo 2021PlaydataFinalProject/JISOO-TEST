@@ -1,16 +1,16 @@
 <template>
-	<div>
-		<SigninForm></SigninForm>
-	</div>
+  <div>
+    <SignInForm></SignInForm>
+  </div>
 </template>
 
 <script>
-import SigninForm from '@/components/SigninForm.vue';
+import SignInForm from "@/components/SignInForm.vue";
 
 export default {
-	components: {
-		SigninForm,
-	},
+  components: {
+    SignInForm
+  }
 };
 </script>
 
